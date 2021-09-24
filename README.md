@@ -3,7 +3,7 @@
 
 Youtube Link ⬇⬇
 
-[![youtube](https://img.youtube.com/vi/PWNJTTX0Auo/0.jpg)](https://www.youtube.com/watch?v=PWNJTTX0Auo)
+[![youtube](https://img.youtube.com/vi/AlhdukjHK9E/0.jpg)](https://www.youtube.com/watch?v=AlhdukjHK9E)
 
 휴가나와서 빠르게 만들었다.
 실제로 기능하는 것이 아니라, 작동방식을 보여주기 위하여 만드는 프로토타입이다.
